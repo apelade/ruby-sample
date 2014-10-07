@@ -1,0 +1,8 @@
+{
+  "name": "ruby-sample",
+  "description": "A barebones sinatra app",
+  "repository": "https://github.com/apelade/ruby-sample",
+  "logo": "https://www.ruby-lang.org/images/header-ruby-logo.png",
+  "keywords": ["ruby", "sinatra", "sample"]
+}
+
